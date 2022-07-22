@@ -1,4 +1,4 @@
-import { getUser, getUsuarioActivo } from '../../src/base-pruebas/base-pruebas/05-funciones';
+import { getUser, getUsuarioActivo } from '../../src/base-pruebas/05-funciones';
 
 
 describe('Pruenas en 05-funciones', () => {
